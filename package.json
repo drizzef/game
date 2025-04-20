@@ -1,0 +1,16 @@
+{
+  "name": "flappy-wife",
+  "version": "1.0.0",
+  "description": "A Flappy Bird-style pregnancy announcement game",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server --port=8080",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 

@@ -1,0 +1,20 @@
+Required Assets:
+
+Images (place in assets/images/):
+- player.png - Character image in pixel art style
+- pipe.png - Obstacle pipe
+- ground.png - Ground image
+- background.png - Game background
+- announcement.png - Envelope or letter image for the reveal
+- pixel.png - 1x1 white pixel for particle effects (replace the text file)
+
+Audio (place in assets/audio/):
+- flap.wav - Sound when player jumps
+- score.wav - Sound when scoring a point
+- hit.wav - Sound when hitting an obstacle
+- reveal.wav - Sound for the announcement reveal
+
+You can create these assets using pixel art tools like Piskel (https://www.piskelapp.com/) or
+use existing free pixel art assets and modify them.
+
+For audio, you can find free game sounds on sites like freesound.org. 
